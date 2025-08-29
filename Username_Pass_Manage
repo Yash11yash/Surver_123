@@ -1,0 +1,10 @@
+<Users>
+    <User>
+        <Username>yash123</Username>
+        <Password>902264</Password>
+    </User>
+    <User>
+        <Username>abc456</Username>
+        <Password>hashed_password_here</Password>
+    </User>
+</Users>
